@@ -20,7 +20,7 @@
 }
 -(void)viewDidAppear:(BOOL)animated{
     [super viewDidAppear:animated];
-    
+    NSLog(@"viewDidAppear");
 }
 
 - (void)didReceiveMemoryWarning {
